@@ -28,7 +28,7 @@ class XyloPhone extends StatelessWidget {
           style: const ButtonStyle(
             enableFeedback: false,
           ),
-          child: Text('Note $soundNum'),
+          child: Icon(Icons.music_note_rounded),
         ),
       ),
     );
