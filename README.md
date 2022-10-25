@@ -13,9 +13,9 @@ The UI of this app is very simple because the music🎼 is meant to be simple an
 
 ----image----
 
-If you want to see a demo of this app or my music making skills👨‍🎤, then just watch this demo video(link).
+If you want to see a demo of this app or my music making skills👨‍🎤, then just watch this [Demo Video](https://github.com/Priyank-Bhagat/quizzeasy/raw/master/appb/quizzeasy.apk).
 
-👉Download👈 The Xylophone App.
+👉[Download ](https://github.com/Priyank-Bhagat/quizzeasy/raw/master/appb/quizzeasy.apk)👈 The Xylophone App.
 
 
 ## Getting Started
