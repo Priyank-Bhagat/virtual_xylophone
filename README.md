@@ -11,11 +11,15 @@ You may know about xylophones🎵 and you might think "what's special about this
 
 The UI of this app is very simple because the music🎼 is meant to be simple and calming😌.
 
-----image----
+<p> 
+    <img width="200" src="https://user-images.githubusercontent.com/115228605/197710860-ce74febf-21bf-4991-bc66-cbf5021faf70.jpg" alt="something was here🤔">
+</p>
 
-If you want to see a demo of this app or my music making skills👨‍🎤, then just watch this [Demo Video](https://github.com/Priyank-Bhagat/quizzeasy/raw/master/appb/quizzeasy.apk).
 
-👉[Download ](https://github.com/Priyank-Bhagat/quizzeasy/raw/master/appb/quizzeasy.apk)👈 The Xylophone App.
+
+If you want to see a demo of this app or my music making skills👨‍🎤, then just watch this [Demo Video](https://user-images.githubusercontent.com/115228605/197710612-db3cd128-fc54-4be3-acd8-0032008808ca.mp4).
+
+👉[Download ](https://github.com/Priyank-Bhagat/virtual_xylophone/raw/master/test/virtual-xylophone.apk)👈 The Xylophone App.
 
 
 ## Getting Started
