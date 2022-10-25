@@ -13,7 +13,7 @@ The UI of this app is very simple because the music🎼 is meant to be simple an
 
 ----image----
 
-If you want to see a demo of this app or my music making skills, then just watch this demo video(link).
+If you want to see a demo of this app or my music making skills👨‍🎤, then just watch this demo video(link).
 
 👉Download👈 The Xylophone App.
 
