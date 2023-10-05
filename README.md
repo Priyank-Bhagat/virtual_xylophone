@@ -19,7 +19,9 @@ The UI of this app is very simple because the music🎼 is meant to be simple an
 
 If you want to see a demo of this app or my music making skills👨‍🎤, then just watch this [Demo Video](https://user-images.githubusercontent.com/115228605/197710612-db3cd128-fc54-4be3-acd8-0032008808ca.mp4).
 
-👉[Download ](https://github.com/Priyank-Bhagat/virtual_xylophone/raw/master/test/virtual-xylophone.apk)👈 The Xylophone App.
+# Download
+
+👉[Download ](https://mega.nz/file/MzlghS5I#W_rdpgrqukmS5IwM9R7w1jiVaJAISTY_hD4QcZiEwZQ)👈 The Xylophone App.
 
 
 ## Getting Started
