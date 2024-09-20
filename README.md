@@ -21,7 +21,7 @@ If you want to see a demo of this app or my music making skills👨‍🎤, then
 
 # Download
 
-👉[Download ](https://mega.nz/file/MzlghS5I#W_rdpgrqukmS5IwM9R7w1jiVaJAISTY_hD4QcZiEwZQ)👈 The Xylophone App.
+👉[Download ](https://drive.google.com/file/d/1AAeCzj39QcqSCAW8VH7H6vv0zd7jnAXP/view?usp=sharing)👈 The Xylophone App.
 
 
 ## Getting Started
